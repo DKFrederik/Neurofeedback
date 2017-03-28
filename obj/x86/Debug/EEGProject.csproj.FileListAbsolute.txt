@@ -1,0 +1,1 @@
+E:\Programering\GitSource\Neurofeedback\EEGProject\bin\Debug\ConsoleApplication.exe.config
