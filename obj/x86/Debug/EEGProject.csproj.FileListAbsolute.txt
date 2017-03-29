@@ -1,1 +1,10 @@
 E:\Programering\GitSource\Neurofeedback\EEGProject\bin\Debug\ConsoleApplication.exe.config
+E:\Programering\GitSource\Neurofeedback\bin\Debug\ConsoleApplication.exe.config
+E:\Programering\GitSource\Neurofeedback\bin\Debug\ConsoleApplication.exe
+E:\Programering\GitSource\Neurofeedback\bin\Debug\ConsoleApplication.pdb
+E:\Programering\GitSource\Neurofeedback\bin\Debug\ThinkGear.dll
+E:\Programering\GitSource\Neurofeedback\bin\Debug\Jayrock.Json.dll
+E:\Programering\GitSource\Neurofeedback\bin\Debug\NLog.dll
+E:\Programering\GitSource\Neurofeedback\bin\Debug\NLog.xml
+E:\Programering\GitSource\Neurofeedback\obj\x86\Debug\ConsoleApplication.exe
+E:\Programering\GitSource\Neurofeedback\obj\x86\Debug\ConsoleApplication.pdb
