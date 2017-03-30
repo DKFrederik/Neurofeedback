@@ -21,8 +21,8 @@ namespace GraphClient
          * */
 
 
-        private Thread cpuThread;
-        private Thread cpuThread1;
+        private Thread cpuThread; //This is meant for meditation
+        private Thread cpuThread1;//This is meant for attention
         //Inside [ ] is the time shown on the diagram
         private double[] cpuArray = new double[120];
         private double[] cpuArray1 = new double[120];
