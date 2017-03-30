@@ -63,7 +63,9 @@
     <Content Include="neurosky\NLog.dll" />
     <Content Include="neurosky\NLog.LICENSE.txt" />
     <Content Include="neurosky\NLog.xml" />
-    <Content Include="neurosky\ThinkGear.dll" />
+    <Content Include="neurosky\ThinkGear.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
